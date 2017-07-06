@@ -1,3 +1,5 @@
+# Sudoku Solver
+
 ## Requirement
 tesseract on your command.   
 Python 3   
